@@ -468,6 +468,6 @@ http://devzone.advantagedatabase.com/dz/webhelp/advantage9.0/server1/dbf_field_t
 
 http://msdn.microsoft.com/en-us/library/st4a0s68%28VS.80%29.aspx
 
-
+http://priede.bf.lu.lv/ftp/pub/DatuBazes/DBF/javadbf/javadbf-tutorial.html
 
 
